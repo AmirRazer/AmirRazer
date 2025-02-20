@@ -1,26 +1,30 @@
-## Hi there 👋
-# Halo semua! 
+<h1 align="center">Hi 👋, I'm Amir</h1>
+<h3 align="center">A  passionate Ai engineer and developer From Indonesia</h3>
 
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+- 💬 Ask me about **Laravel**
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
-<!--
-**AmirRazer/AmirRazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+- 🌱 I’m currently learning about cloud technology
+- 📫 How to reach me: amirmahmoed003@gmail.com
+- ⚡ Fun fact: Novice Pianist
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/amirrazer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamvikashkum" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amir_razer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikashkr30" height="30" width="40" /></a>
+</p>
+
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/AmirRazer">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmirRazer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmirRazer&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
